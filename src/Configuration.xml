@@ -231,8 +231,8 @@
 			<CommonForm>ТестоваяФорма</CommonForm>
 			<Catalog>Номенклатуры</Catalog>
 			<Catalog>Контрагенты</Catalog>
-			<Catalog>Товары</Catalog>
 			<Document>Чеки</Document>
+			<Enum>Перечисление1</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

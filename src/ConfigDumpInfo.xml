@@ -9,8 +9,8 @@
 		<Metadata name="CommonForm.ТестоваяФорма.Form" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d.0" configVersion="bea7ef9faac58241a2c4ad001b3093f500000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1" id="518c76a0-41e0-4f44-962f-d1a6aaf5879e" configVersion="b76057eefc341e449f9bb2ef79edd5e700000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="518c76a0-41e0-4f44-962f-d1a6aaf5879e.0" configVersion="7688ed00d494324094d5d5384450f09100000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль2" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="1b577c95b3322d48a52d2b416e5905ae00000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="9fc86bcb30f35443b4e8a59edeb1fa4900000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="5db41278d3cbfd4aa73ff8928e78c48a00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="550f254abe6d3d4fb07e4f12a8d1f82700000000"/>
 		<Metadata name="Configuration.Конфигурация" id="49044dee-c5cc-48f4-8089-2aed92daac0f" configVersion="ea505bd8594cdd40831e94be7842c38200000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="a72bc119-1bfd-4b1a-a274-00634ed14644.8" configVersion="cad7d93577d00e4fa4ec818a199b11b000000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a72bc119-1bfd-4b1a-a274-00634ed14644.6" configVersion="af9de253d8e07a41970ee6ee4d6c32e100000000"/>

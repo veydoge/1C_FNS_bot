@@ -749,20 +749,16 @@
 				<ChildObjects>
 					<Attribute uuid="3aafe389-2e55-4817-acc4-0640de6c2127">
 						<Properties>
-							<Name>Наименование</Name>
+							<Name>Номенклатура</Name>
 							<Synonym>
 								<v8:item>
 									<v8:lang>ru</v8:lang>
-									<v8:content>Наименование</v8:content>
+									<v8:content>Номенклатура</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
 							<Type>
-								<v8:Type>xs:string</v8:Type>
-								<v8:StringQualifiers>
-									<v8:Length>10</v8:Length>
-									<v8:AllowedLength>Variable</v8:AllowedLength>
-								</v8:StringQualifiers>
+								<v8:Type>cfg:CatalogRef.Номенклатуры</v8:Type>
 							</Type>
 							<PasswordMode>false</PasswordMode>
 							<Format/>
@@ -801,7 +797,7 @@
 							<Type>
 								<v8:Type>xs:string</v8:Type>
 								<v8:StringQualifiers>
-									<v8:Length>10</v8:Length>
+									<v8:Length>150</v8:Length>
 									<v8:AllowedLength>Variable</v8:AllowedLength>
 								</v8:StringQualifiers>
 							</Type>

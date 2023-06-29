@@ -9,18 +9,18 @@
 		<Metadata name="CommonForm.ТестоваяФорма.Form" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d.0" configVersion="bea7ef9faac58241a2c4ad001b3093f500000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1" id="518c76a0-41e0-4f44-962f-d1a6aaf5879e" configVersion="b76057eefc341e449f9bb2ef79edd5e700000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="518c76a0-41e0-4f44-962f-d1a6aaf5879e.0" configVersion="7688ed00d494324094d5d5384450f09100000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль2" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="e7af9c3c3fcf3c41ac0c0987bf3ee94400000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="21c098c0097df947bba53da90730ddce00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="1b577c95b3322d48a52d2b416e5905ae00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="9fc86bcb30f35443b4e8a59edeb1fa4900000000"/>
 		<Metadata name="Configuration.Конфигурация" id="49044dee-c5cc-48f4-8089-2aed92daac0f" configVersion="ea505bd8594cdd40831e94be7842c38200000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="a72bc119-1bfd-4b1a-a274-00634ed14644.8" configVersion="cad7d93577d00e4fa4ec818a199b11b000000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a72bc119-1bfd-4b1a-a274-00634ed14644.6" configVersion="af9de253d8e07a41970ee6ee4d6c32e100000000"/>
 		<Metadata name="Constant.ИдентификаторПоследнего" id="f13312c8-e1f3-4300-9db8-a24cd951c233" configVersion="8b5780c9f80c20468b4f10058186fe4e00000000"/>
-		<Metadata name="Document.Чеки" id="2577a489-eab2-4881-a5c3-46eef31a4aa5" configVersion="d02907d720f32f41be1b20895c57a30200000000">
+		<Metadata name="Document.Чеки" id="2577a489-eab2-4881-a5c3-46eef31a4aa5" configVersion="1ff593cac9f58144b1d30f460566789600000000">
 			<Metadata name="Document.Чеки.Attribute.Наличные" id="07ecc679-0840-4a49-852b-192c0478467c"/>
 			<Metadata name="Document.Чеки.Attribute.МестоРасчетов" id="0dbc37c7-870f-4f76-87dd-b7e72fa9730e"/>
 			<Metadata name="Document.Чеки.Attribute.СНО" id="227247a7-77ed-412b-a784-2719f40c1a4f"/>
 			<Metadata name="Document.Чеки.Attribute.Контрагент" id="28b72bf9-f428-4d57-b6be-04127929690d"/>
-			<Metadata name="Document.Чеки.TabularSection.Товары.Attribute.Наименование" id="3aafe389-2e55-4817-acc4-0640de6c2127"/>
+			<Metadata name="Document.Чеки.TabularSection.Товары.Attribute.Номенклатура" id="3aafe389-2e55-4817-acc4-0640de6c2127"/>
 			<Metadata name="Document.Чеки.Attribute.Безналичные" id="43e60f14-5a46-4bae-8867-8ab15b5e4362"/>
 			<Metadata name="Document.Чеки.TabularSection.Товары.Attribute.Количество" id="4688bc3e-901c-4793-8556-bc23d14a6bef"/>
 			<Metadata name="Document.Чеки.Attribute.ФД" id="4b4bdc9a-c2e8-4789-85fc-57c63f5b2fe6"/>

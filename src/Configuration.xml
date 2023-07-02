@@ -225,8 +225,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>Админ</Role>
-			<CommonModule>ОбщийМодуль1</CommonModule>
-			<CommonModule>ОбщийМодуль2</CommonModule>
+			<CommonModule>МодульБота</CommonModule>
 			<Constant>ИдентификаторПоследнего</Constant>
 			<CommonForm>ТестоваяФорма</CommonForm>
 			<Catalog>Номенклатуры</Catalog>

@@ -5,13 +5,11 @@
 			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="8958a515-72bd-4775-b314-fa3b872b075b"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатуры" id="8c5e3776-8d77-4317-a0b4-59594566a3c2" configVersion="a3ba6cc8cea73b4abde635f7a74a0dd400000000"/>
-		<Metadata name="CommonForm.ТестоваяФорма" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d" configVersion="02d9a1be5780eb4ab29a6e0f9e8ce9b900000000"/>
-		<Metadata name="CommonForm.ТестоваяФорма.Form" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d.0" configVersion="792978304a7d0244895315ae824a68a300000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1" id="518c76a0-41e0-4f44-962f-d1a6aaf5879e" configVersion="d535975198b49d46ae668ad52dd6d57c00000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="518c76a0-41e0-4f44-962f-d1a6aaf5879e.0" configVersion="3426563755a08f448a079d0e3c7a4f2100000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль2" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="d59ae7fa61b6f045baf1fbf2d50050d400000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="561fcd0cc9554b428f7dc63eab930be200000000"/>
-		<Metadata name="Configuration.Конфигурация" id="49044dee-c5cc-48f4-8089-2aed92daac0f" configVersion="e00b83060e35a24c88aa2e67abeef6f200000000"/>
+		<Metadata name="CommonForm.ТестоваяФорма" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d" configVersion="17b94196a2c507479b05cb05841ecbd300000000"/>
+		<Metadata name="CommonForm.ТестоваяФорма.Form" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d.0" configVersion="b23bab45014b76448ca31f38e782661400000000"/>
+		<Metadata name="CommonModule.МодульБота" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="bae3c510ee931a45879f8c1482c4f06100000000"/>
+		<Metadata name="CommonModule.МодульБота.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="780b5bd42b62c24183597d046109f82800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="49044dee-c5cc-48f4-8089-2aed92daac0f" configVersion="ff576e59b838704d8a6933427f0207a800000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="a72bc119-1bfd-4b1a-a274-00634ed14644.8" configVersion="0558ae9a6acb7c4796200537e59e59bb00000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a72bc119-1bfd-4b1a-a274-00634ed14644.6" configVersion="c1922f2fd861744ba65b1ff0f80abdef00000000"/>
 		<Metadata name="Constant.ИдентификаторПоследнего" id="f13312c8-e1f3-4300-9db8-a24cd951c233" configVersion="b15fef44ede1c14db12056cda793363000000000"/>

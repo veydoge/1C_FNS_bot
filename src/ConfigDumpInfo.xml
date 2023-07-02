@@ -2,6 +2,7 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
 		<Metadata name="Catalog.Контрагенты" id="4fd1026d-69c6-4ebc-8a8c-e5dd8d0099b8" configVersion="9f9226c2eff76b43918ac11eabf330b000000000">
+		<Metadata name="Catalog.Контрагенты" id="4fd1026d-69c6-4ebc-8a8c-e5dd8d0099b8" configVersion="2c44d06deec487458f0a51a2d44d99da00000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="8958a515-72bd-4775-b314-fa3b872b075b"/>
 		</Metadata>
 <<<<<<< Updated upstream
@@ -24,6 +25,11 @@
 		<Metadata name="CommonModule.ОбщийМодуль2" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="3df93d4fb41714469539941bba2d3e6500000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="9ccb7221eae133418a812583785c762700000000"/>
 		<Metadata name="Configuration.Конфигурация" id="49044dee-c5cc-48f4-8089-2aed92daac0f" configVersion="eafe62dc7ae57840a318f35ba57ced7b00000000"/>
+		<Metadata name="CommonForm.ТестоваяФорма" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d" configVersion="8cff27ece4dfe445854a783485e4fd1400000000"/>
+		<Metadata name="CommonForm.ТестоваяФорма.Form" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d.0" configVersion="182a113eac616d468e2a05d9b77fae8b00000000"/>
+		<Metadata name="CommonModule.МодульБота" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="81b04c8cea670e42bf3e0ecc7ebb7b3100000000"/>
+		<Metadata name="CommonModule.МодульБота.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="9ccb7221eae133418a812583785c762700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="49044dee-c5cc-48f4-8089-2aed92daac0f" configVersion="7ce15093da92d34081e85a941613030500000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="a72bc119-1bfd-4b1a-a274-00634ed14644.8" configVersion="58b3e026e03d1044aa1715f4192c15cb00000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a72bc119-1bfd-4b1a-a274-00634ed14644.6" configVersion="eaf75c2177fa474c9166952b23c713da00000000"/>
 		<Metadata name="Constant.ДатаПрочтения" id="456366c0-0688-4371-adf1-21dfe2f80ad7" configVersion="049b4b07529e2f46b734dcfebc4d96cc00000000"/>
@@ -53,5 +59,9 @@
 		<Metadata name="Language.Русский" id="eced6d93-84c1-4b8d-9133-aa0db9887fac" configVersion="51946564f3468e4da1a732c9801f490100000000"/>
 		<Metadata name="Role.Админ" id="9be9df79-4611-4838-87a3-462a2e6f05c3" configVersion="b4012ee9f8062f48a58bb41fefb93ec400000000"/>
 		<Metadata name="Role.Админ.Rights" id="9be9df79-4611-4838-87a3-462a2e6f05c3.0" configVersion="ad474f1cb1d6a34ea12549d2bf9c0c3500000000"/>
+		<Metadata name="Enum.Перечисление1" id="25393516-8f77-42ff-9df9-c4c6252fdd6f" configVersion="62192e9e4e12a84c804ac984845cb04000000000"/>
+		<Metadata name="Language.Русский" id="eced6d93-84c1-4b8d-9133-aa0db9887fac" configVersion="6429b7aec9d1934d944f6a2e30152df900000000"/>
+		<Metadata name="Role.Админ" id="9be9df79-4611-4838-87a3-462a2e6f05c3" configVersion="7e5a69f2ff1c2146b50059cab53de90800000000"/>
+		<Metadata name="Role.Админ.Rights" id="9be9df79-4611-4838-87a3-462a2e6f05c3.0" configVersion="63a801130422d94ab07b64f77ceab37000000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

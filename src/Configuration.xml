@@ -225,8 +225,13 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>Админ</Role>
+<<<<<<< Updated upstream
 			<CommonModule>МодульБота</CommonModule>
 			<Constant>ИдентификаторПоследнего</Constant>
+=======
+			<CommonModule>ОбщийМодуль1</CommonModule>
+			<CommonModule>ОбщийМодуль2</CommonModule>
+>>>>>>> Stashed changes
 			<CommonForm>ТестоваяФорма</CommonForm>
 			<Catalog>Номенклатуры</Catalog>
 			<Catalog>Контрагенты</Catalog>

@@ -4,6 +4,7 @@
 		<Metadata name="Catalog.Контрагенты" id="4fd1026d-69c6-4ebc-8a8c-e5dd8d0099b8" configVersion="9f9226c2eff76b43918ac11eabf330b000000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="8958a515-72bd-4775-b314-fa3b872b075b"/>
 		</Metadata>
+<<<<<<< Updated upstream
 		<Metadata name="Catalog.Номенклатуры" id="8c5e3776-8d77-4317-a0b4-59594566a3c2" configVersion="a3ba6cc8cea73b4abde635f7a74a0dd400000000"/>
 		<Metadata name="CommonForm.ТестоваяФорма" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d" configVersion="17b94196a2c507479b05cb05841ecbd300000000"/>
 		<Metadata name="CommonForm.ТестоваяФорма.Form" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d.0" configVersion="b23bab45014b76448ca31f38e782661400000000"/>

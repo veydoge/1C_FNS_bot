@@ -15,6 +15,20 @@
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a72bc119-1bfd-4b1a-a274-00634ed14644.6" configVersion="c1922f2fd861744ba65b1ff0f80abdef00000000"/>
 		<Metadata name="Constant.ИдентификаторПоследнего" id="f13312c8-e1f3-4300-9db8-a24cd951c233" configVersion="b15fef44ede1c14db12056cda793363000000000"/>
 		<Metadata name="Document.Чеки" id="2577a489-eab2-4881-a5c3-46eef31a4aa5" configVersion="c826ecac24e0d249a8f41e4a5d5b993500000000">
+=======
+		<Metadata name="Catalog.Номенклатуры" id="8c5e3776-8d77-4317-a0b4-59594566a3c2" configVersion="49f1e6844791ad499d308240302cac8e00000000"/>
+		<Metadata name="CommonForm.ТестоваяФорма" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d" configVersion="6b4a15a146ddd94f91099c1be09db11500000000"/>
+		<Metadata name="CommonForm.ТестоваяФорма.Form" id="f197c3b7-d8df-4125-b0bd-6af2bb3eb98d.0" configVersion="49da52a58fbeef47a5114bcb002e2da600000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="518c76a0-41e0-4f44-962f-d1a6aaf5879e" configVersion="e5042ba934d21740a42aa0522403d18300000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="518c76a0-41e0-4f44-962f-d1a6aaf5879e.0" configVersion="e12e43fab21ffa47ad29453507675d1700000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03" configVersion="3df93d4fb41714469539941bba2d3e6500000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="e69ec2c8-5ec4-4781-95f1-9982352cdb03.0" configVersion="9ccb7221eae133418a812583785c762700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="49044dee-c5cc-48f4-8089-2aed92daac0f" configVersion="eafe62dc7ae57840a318f35ba57ced7b00000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="a72bc119-1bfd-4b1a-a274-00634ed14644.8" configVersion="58b3e026e03d1044aa1715f4192c15cb00000000"/>
+		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a72bc119-1bfd-4b1a-a274-00634ed14644.6" configVersion="eaf75c2177fa474c9166952b23c713da00000000"/>
+		<Metadata name="Constant.ДатаПрочтения" id="456366c0-0688-4371-adf1-21dfe2f80ad7" configVersion="049b4b07529e2f46b734dcfebc4d96cc00000000"/>
+		<Metadata name="Document.Чеки" id="2577a489-eab2-4881-a5c3-46eef31a4aa5" configVersion="0c809984d9c3504e8fbcfc445027e7fb00000000">
+>>>>>>> Stashed changes
 			<Metadata name="Document.Чеки.Attribute.Наличные" id="07ecc679-0840-4a49-852b-192c0478467c"/>
 			<Metadata name="Document.Чеки.Attribute.МестоРасчетов" id="0dbc37c7-870f-4f76-87dd-b7e72fa9730e"/>
 			<Metadata name="Document.Чеки.Attribute.СНО" id="227247a7-77ed-412b-a784-2719f40c1a4f"/>

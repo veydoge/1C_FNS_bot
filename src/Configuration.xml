@@ -231,6 +231,7 @@
 =======
 			<CommonModule>ОбщийМодуль1</CommonModule>
 			<CommonModule>ОбщийМодуль2</CommonModule>
+			<Constant>ДатаПрочтения</Constant>
 >>>>>>> Stashed changes
 			<CommonForm>ТестоваяФорма</CommonForm>
 			<Catalog>Номенклатуры</Catalog>
